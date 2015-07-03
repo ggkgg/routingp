@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../makefile" open="0" top="0" tabpos="0">
+		<Cursor position="245" topLine="0" />
+	</File>
+	<File name="../mr_common.h" open="0" top="0" tabpos="4">
+		<Cursor position="4058" topLine="96" />
+	</File>
+	<File name="../rp_common.h" open="0" top="0" tabpos="7">
+		<Cursor position="859" topLine="17" />
+	</File>
+	<File name="../rp_fhr.c" open="0" top="0" tabpos="2">
+		<Cursor position="3370" topLine="15" />
+	</File>
+	<File name="../rp_fhr.h" open="0" top="0" tabpos="6">
+		<Cursor position="163" topLine="0" />
+	</File>
+	<File name="../rp_main.c" open="0" top="0" tabpos="0">
+		<Cursor position="5106" topLine="213" />
+	</File>
+	<File name="../rp_timer.c" open="0" top="0" tabpos="3">
+		<Cursor position="87" topLine="0" />
+	</File>
+	<File name="../rp_timer.h" open="0" top="0" tabpos="5">
+		<Cursor position="461" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
